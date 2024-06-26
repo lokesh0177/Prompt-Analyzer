@@ -1,6 +1,4 @@
 nltk==3.6.2
-math==0.0.1  # Replace with the actual version you intend to use
-string==0.0.1  # Replace with the actual version you intend to use
-collections==0.0.1  # Replace with the actual version you intend to use
+
 nltk-util==0.0.1  # Replace with the actual version you intend to use
 nltk-translate-bleu-score==0.0.1  # Replace with the actual version you intend to use
