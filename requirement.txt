@@ -1,0 +1,7 @@
+streamlit
+nltk
+maths 
+string 
+collections
+nltk.util
+nltk.translate.bleu_score
